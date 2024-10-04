@@ -1,2 +1,2 @@
-# Gokulnathgithub.io
+# Gokulnath.github.io
 my website
